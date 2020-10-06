@@ -1,0 +1,67 @@
+fieldset {
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+  padding-bottom: 0.625em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  border: 1px groove #f5f5f5;
+}
+legend{
+	border:none;
+	padding-left: 10px;
+}
+.register{
+	padding : 20px;
+}
+.register .pad{
+	margin-top:15px;
+}
+.pad p , .pad h1{
+	margin-left: 20px;
+	margin-bottom: 15px;
+}
+.pad span{
+	color : red;
+	margin-left: 5px;
+}
+
+.register input[type=text] ,.register input[type=password]
+{
+	width: 100%;
+	height: 40px;
+	outline: none;
+	border-radius: 5px;
+	border : 1px solid gray;
+	padding-left: 30px;
+}
+.register input[type=radio]:last-child
+{
+	margin-left: 10%;
+}
+.register select{
+	width: 100%;
+	height: 40px;
+	outline: none;
+	border-radius: 5px;
+	border : 1px solid gray;
+	padding-left: 30px;
+}
+.dk{
+	outline: none;
+	padding : 5px 10px;
+	border-radius: 5px;
+	border: 1px solid #80BB35;
+	background-color: #80BB35;
+	color: white;
+}
+input:focus ,input:active ,input:visited{
+	background-color: yellow;
+}
+#error_1,#error_2,#error_3,#error_4,#error_5,#error_6,#error_7,#error_8
+{
+	margin-left: 15px;
+	color: red;
+	margin-top:5px;
+}

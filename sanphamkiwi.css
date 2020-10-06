@@ -1,0 +1,105 @@
+.contentsp span.star{
+	font-size: 20px;
+	color : orange;
+}
+.contentsp .danhgiasp{
+	padding-left: 15px;
+}
+.contentsp .ma{
+	margin: 15px 0;
+}
+.contentsp .ttrang span{
+	background-color : #80BB35;
+	border-radius:5px;
+	padding : 5px 10px;
+	color: white;
+}
+.contentsp .gia{
+	font-size: 36px;
+	font-weight: 700;
+	color:orange;
+}
+.contentsp .controls{
+	padding:10px;
+	margin:5px;
+	border:1px solid #DBD9D9;
+}
+.contentsp .controls span{
+	margin:0 10px;
+	cursor: pointer;
+}
+.contentsp #add{
+	padding:7px;
+	background-color: #80BB35;
+	color: white;
+	border:1px solid #80BB35;
+}
+.contentsp div i{
+	font-size: 25px;
+	margin-top: 15px;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	line-height: 32px;
+	text-align: center;
+	border-radius:5px;
+}
+.contentsp div i:hover{
+	cursor: pointer;
+}
+.contentsp div i:first-child{
+	color:white;
+	background-color: #3757F9;
+}
+.contentsp div i:nth-child(2){
+	color:white;
+	background-color: #3757F9;
+}
+.contentsp div i:nth-child(3){
+	color:white;
+	background-image: linear-gradient( to top right , #FFAA23 , #F70ED9 ,#3EA1F5);
+}
+.contentsp div i:last-child{
+	color:white;
+	background-color: #3757F9;
+}
+.danhgiasp button:first-child{
+	padding:5px 15px;
+	border:1px solid orange;
+	background-color: orange;
+	border-radius:5px;
+	margin: 5px;
+}
+.danhgiasp button:nth-child(2){
+	padding:5px 15px;
+	background-color: #80BB35;
+	border:1px solid #80BB35;
+	border-radius:5px;
+	margin: 5px;
+}
+#succesadd{
+	height: 50px;
+	line-height: 50px;
+	background-color: #D1F9F9;
+	padding-left: 15px;
+	color: #D200FF;
+	display: none;
+	border-radius:5px;
+	margin-bottom:15px;
+}
+.hang1{
+	padding-bottom:10px;
+}
+.hang1 div img{
+	border:1px solid #F0EAEA;
+	padding:5px;
+
+}
+.hang1 div:last-child p:nth-child(2)
+{
+	color:orange;
+	font-weight: 700;
+}
+.imgsp img{
+	padding:15px;
+}

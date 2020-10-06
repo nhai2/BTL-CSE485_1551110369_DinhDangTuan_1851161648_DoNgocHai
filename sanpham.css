@@ -1,0 +1,10 @@
+.sanpham2 p{
+	height: 20px;
+}
+.sanpham2 .dong{
+	padding : 10px;
+}
+.sanpham2 hr{
+	width: 90%;
+	margin:5px auto;
+}

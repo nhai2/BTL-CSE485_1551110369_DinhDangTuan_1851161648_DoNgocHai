@@ -1,0 +1,55 @@
+
+.chitiet span{
+	opacity: .8;
+}
+
+.chitiet .img{
+	text-align: center;
+	margin: 15px 0;
+}
+.chitiet .img img{
+	border:1px solid gray;
+	padding : 2px;
+}
+.chitiet p{
+	font-size: 16px;
+	line-height: 26px;
+}
+.chitiet .comment{
+	display: block;
+	border-top:1px solid #EFEBEB;
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+.chitiet input , .chitiet textarea
+{
+	width: 100%;
+	max-width: 100%;
+	border-radius:5px;
+	padding:10px;
+}
+.chitiet input{
+	height: 40px;
+	line-height: 40px;
+	border:1px solid #D2D2D2;
+	outline:none;
+	margin-bottom: 20px;
+}
+.btn.btn-success{
+	padding:5px 15px;
+}
+.chitiet ul li{
+	list-style-type: none;
+	padding-left : 15px;
+	margin:10px 0;
+}
+.chitiet ul li a{
+	color:black;
+}
+.chitiet ul li a:hover{
+	color:#80BB35;
+
+}
+.nhan{
+	list-style-type:circle!important;
+}

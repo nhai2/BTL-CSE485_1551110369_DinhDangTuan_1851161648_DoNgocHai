@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.demuc{
+	font-size: 16px;
+	padding-left: 20px;
+}
+.demuc span a
+{
+	color: black;
+}
+.demuc span:last-child a{
+	color :#80BB35;
+}
+.new-cus , .old-cus{
+	width: 49%;
+	border: 1px solid #D4D4D4;
+	border-radius: 10px;
+}
+.customer{
+	margin-top: 15px;
+}
+.new-cus{
+	padding : 20px 20px 30px 20px;
+	float: left;
+	background-color: #f5f5f5;
+}
+.new-cus h1 , .old-cus h1{
+	margin-bottom: 20px	;
+}
+.new-cus h6{
+	font-weight: 700;
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+.new-cus p{
+	margin-bottom: 30px;
+}
+.new-cus a:last-child{
+	padding : 10px 15px;
+	background-color :#80BB35;
+	border : 1px solid #80BB35;
+	border-radius : 5px;
+	color : white;
+}
+.new-cus button:active , .new-cus button:visited ,.new-cus button:focus{
+	outline: none;
+}
+.old-cus{
+	padding : 20px 20px 50px 20px;
+	float: right;
+	background-color: #f5f5f5;
+}
+.old-cus p{
+	font-size: 16px;
+	font-weight: 700;
+	margin-bottom: 15px;
+}
+.old-cus input[type=text] , .old-cus input[type = password]
+{
+	width: 100%;
+	padding : 7px 12px;
+	border : 1px solid gray;
+	border-radius : 5px;
+	outline: none;
+}
+input:focus{
+	outline: none;
+}
+.old-cus a{
+	color: black;
+	display: block;
+	margin: 5px 0 0 0;
+}
+.old-cus a:last-child{
+	padding : 10px 15px;
+	background-color :#80BB35;
+	border : 1px solid #80BB35;
+	border-radius : 5px;
+	display: inline;
+	color : white;
+}
+@media screen and (max-width: 768px)
+{
+	.old-cus , .new-cus{
+		width: 100%;
+		clear: both;
+		margin-top: 15px;
+	}
+}
