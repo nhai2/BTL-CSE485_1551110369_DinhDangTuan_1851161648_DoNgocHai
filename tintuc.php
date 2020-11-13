@@ -60,6 +60,7 @@
 					<li><a href="gioithieu.php">Giới thiệu</a></li>
 					<li><a href="tintuc.php">Tin tức</a></li>
 					<li><a href="gioithieu.php">Liên hệ</a></li>
+					<li><a href="cuahang.php">Cửa hàng</a></li>
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="giohang.php"  class="cart"><span class="fa fa-shopping-cart cart"></span> Giỏ hàng</a></li>

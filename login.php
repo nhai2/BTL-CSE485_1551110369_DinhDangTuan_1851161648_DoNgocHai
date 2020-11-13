@@ -58,6 +58,7 @@
 					<li><a href="gioithieu.php">Giới thiệu</a></li>
 					<li><a href="tintuc.php">Tin tức</a></li>
 					<li><a href="lienhe.php">Liên hệ</a></li>
+					<li><a href="cuahang.php">Cửa hàng</a></li>
 				</ul>
 				
 			</div>

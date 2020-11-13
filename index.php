@@ -108,6 +108,7 @@ if (isset($_POST['add'])){
 							<li><a href="gioithieu.php">Giới Thiệu</a></li>
 							<li><a href="tintuc.php">Tin tức</a></li>
 							<li><a href="lienhe.php">Liên hệ</a></li>
+							<li><a href="cuahang.php">Cửa hàng</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="signup.php"><span class="glyphicon glyphicon-user"></span> Đăng Kí</a></li>
